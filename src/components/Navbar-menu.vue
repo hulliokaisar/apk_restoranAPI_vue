@@ -12,7 +12,7 @@
           :key="category"
           :value="category"
         >
-          {{ category }}
+        {{ category }}
         </option>
       </select>
     </ul>
